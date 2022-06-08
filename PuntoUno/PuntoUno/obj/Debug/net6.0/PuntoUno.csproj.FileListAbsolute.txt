@@ -1,0 +1,15 @@
+C:\TallerLenguajesC#\tp07-2022-SantiagoYalux\PuntoUno\PuntoUno\bin\Debug\net6.0\PuntoUno.exe
+C:\TallerLenguajesC#\tp07-2022-SantiagoYalux\PuntoUno\PuntoUno\bin\Debug\net6.0\PuntoUno.deps.json
+C:\TallerLenguajesC#\tp07-2022-SantiagoYalux\PuntoUno\PuntoUno\bin\Debug\net6.0\PuntoUno.runtimeconfig.json
+C:\TallerLenguajesC#\tp07-2022-SantiagoYalux\PuntoUno\PuntoUno\bin\Debug\net6.0\PuntoUno.dll
+C:\TallerLenguajesC#\tp07-2022-SantiagoYalux\PuntoUno\PuntoUno\bin\Debug\net6.0\PuntoUno.pdb
+C:\TallerLenguajesC#\tp07-2022-SantiagoYalux\PuntoUno\PuntoUno\obj\Debug\net6.0\PuntoUno.csproj.AssemblyReference.cache
+C:\TallerLenguajesC#\tp07-2022-SantiagoYalux\PuntoUno\PuntoUno\obj\Debug\net6.0\PuntoUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\TallerLenguajesC#\tp07-2022-SantiagoYalux\PuntoUno\PuntoUno\obj\Debug\net6.0\PuntoUno.AssemblyInfoInputs.cache
+C:\TallerLenguajesC#\tp07-2022-SantiagoYalux\PuntoUno\PuntoUno\obj\Debug\net6.0\PuntoUno.AssemblyInfo.cs
+C:\TallerLenguajesC#\tp07-2022-SantiagoYalux\PuntoUno\PuntoUno\obj\Debug\net6.0\PuntoUno.csproj.CoreCompileInputs.cache
+C:\TallerLenguajesC#\tp07-2022-SantiagoYalux\PuntoUno\PuntoUno\obj\Debug\net6.0\PuntoUno.dll
+C:\TallerLenguajesC#\tp07-2022-SantiagoYalux\PuntoUno\PuntoUno\obj\Debug\net6.0\refint\PuntoUno.dll
+C:\TallerLenguajesC#\tp07-2022-SantiagoYalux\PuntoUno\PuntoUno\obj\Debug\net6.0\PuntoUno.pdb
+C:\TallerLenguajesC#\tp07-2022-SantiagoYalux\PuntoUno\PuntoUno\obj\Debug\net6.0\PuntoUno.genruntimeconfig.cache
+C:\TallerLenguajesC#\tp07-2022-SantiagoYalux\PuntoUno\PuntoUno\obj\Debug\net6.0\ref\PuntoUno.dll
